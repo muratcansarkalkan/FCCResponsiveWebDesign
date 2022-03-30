@@ -1,0 +1,40 @@
+@import url(//fonts.googleapis.com/css?family=Poppins);
+
+#title
+{
+    color: #0B0B45;
+    text-align: left;
+    font-family: Poppins;
+}
+#description
+{
+    color: #0B0B45;
+    text-align: left;
+    font-family: Poppins;
+}
+
+#survey-form
+{
+    color: #0B0B45;
+    text-align: left;
+    font-family: Poppins;
+}
+
+label{
+    display: flex;
+}
+body
+{
+  background-color: #FFFFFF;
+}
+
+main
+{
+  margin: auto;
+  width: 1200px;
+  padding: 15px;
+  background-color: #E0E0E0;
+  border: 2px solid #0B0B45CC;
+  border-radius: 5px;
+  box-shadow: 0px 10px 5px grey;
+}
